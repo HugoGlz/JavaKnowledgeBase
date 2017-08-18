@@ -1,0 +1,11 @@
+**/.classpath
+**/Servers/
+**/.project
+**/.settings
+**/bin/
+**/.gradle
+**/build/
+**/.DS_Store
+**/.metadata/
+**/.recommenders/
+**/META-INF/
